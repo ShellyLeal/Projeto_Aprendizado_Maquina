@@ -7,6 +7,7 @@ Prof. Paulo André L. Castro
 1. Objetivo
 Exercitar e fixar conhecimentos adquiridos sobre Aprendizado de Máquina utilizando árvores de decisão
 e/ou redes bayesianas ingênuas (Näive Bayes) utilizando uma base de dados fornecida.
+
 2. Descrição do Trabalho
 2.1. Base de dados (dataset)
 Neste projeto, devem ser usadas as informações de classificações de filmes ( 1 a cinco estrelas) para os
